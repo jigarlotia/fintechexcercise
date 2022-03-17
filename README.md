@@ -8,5 +8,5 @@ I am Jigar and learning Fintech
 Learn the fintech concepts
 
 ### Why did you choose FinTech as a career path?
-Love tech and finance
+Love tech and finance!
 
